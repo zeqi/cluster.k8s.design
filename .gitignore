@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+*.log
+*.pid
+logs
+*.swp
+*.idea
+*.vscode
+*-compiled.*
+.pm2
+typings*
+dist/
+build/
+docs/
+package-lock.json
